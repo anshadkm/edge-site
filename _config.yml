@@ -24,6 +24,7 @@ url: "http://www.edgeinnovationlabs.com" # the base hostname & protocol for your
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
+google-site-verification: oIpnOXlHzwI3rPWf6_NFqm6OFSTrRNgUPRyylPWL5dA
 
 # Build settings
 markdown: kramdown
