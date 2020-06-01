@@ -14,11 +14,11 @@ keep_files:
 
 
 # Site settings
-title: EDGE Innovation Labs
+title: EDGE Innovation Labs | Digital Transformation
 description: >- # this means to ignore newlines until "baseurl:"
   We, EDGE Innovation Labs, are the digital transformation experts.
   We can help you in transforming your business.
-subtitle: "A free HTML5 agency template"
+subtitle: "digital transformation solutions"
 url: "http://www.edgeinnovationlabs.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
