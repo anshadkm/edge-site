@@ -26,6 +26,9 @@ cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 google-site-verification: oIpnOXlHzwI3rPWf6_NFqm6OFSTrRNgUPRyylPWL5dA
 
+plugins:
+  - jekyll-sitemap
+  
 # Build settings
 markdown: kramdown
 
