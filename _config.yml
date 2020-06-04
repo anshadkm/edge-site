@@ -14,7 +14,7 @@ keep_files:
 
 
 # Site settings
-title: EDGE Innovation Labs | Digital Transformation
+title: EDGE Innovation Labs
 description: >- # this means to ignore newlines until "baseurl:"
   We, EDGE Innovation Labs, are the digital transformation experts.
   We can help you in transforming your business.
@@ -28,7 +28,7 @@ google-site-verification: oIpnOXlHzwI3rPWf6_NFqm6OFSTrRNgUPRyylPWL5dA
 
 plugins:
   - jekyll-sitemap
-  
+
 # Build settings
 markdown: kramdown
 
